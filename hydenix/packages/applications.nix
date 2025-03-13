@@ -9,7 +9,5 @@
     ark # kde file archiver
     vim # terminal text editor
     vscode # ide text editor
-    webcord # discord client
-    vesktop # discord client
   ];
 }
